@@ -1,4 +1,4 @@
-# LeetcodeInternalizer
+# Algorithm-Internalizer
 This is a learning application designed to help users master algorithm knowledge.
 
 It automatically provides exercises based on learner's familiarity with algorithm concepts.
